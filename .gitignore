@@ -1,4 +1,5 @@
 *.var
 *.var.bak
 nc_files
+simple-gcode-generators
 last_position.txt
