@@ -1,5 +1,6 @@
 *.var
 *.var.bak
+*.pncconf
 nc_files
 simple-gcode-generators
 last_position.txt
